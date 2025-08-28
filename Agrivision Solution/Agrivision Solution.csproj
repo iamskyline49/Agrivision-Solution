@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49CBF5FE-8899-4995-8AC3-2B3EAFB1E097}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Agrivision_Solution</RootNamespace>
+    <AssemblyName>Agrivision Solution</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Azure.Core, Version=1.38.0.0, Culture=neutral, PublicKeyToken=92742159e12e44c8, processorArchitecture=MSIL">
+      <HintPath>..\packages\Azure.Core.1.38.0\lib\net472\Azure.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Azure.Identity, Version=1.11.4.0, Culture=neutral, PublicKeyToken=92742159e12e44c8, processorArchitecture=MSIL">
+      <HintPath>..\packages\Azure.Identity.1.11.4\lib\netstandard2.0\Azure.Identity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.1\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.SqlClient, Version=5.0.0.0, Culture=neutral, PublicKeyToken=23ec7fc2d6eaa4a5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.SqlClient.5.2.2\lib\net462\Microsoft.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Identity.Client, Version=4.61.3.0, Culture=neutral, PublicKeyToken=0a613f4dd989e8ae, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Identity.Client.4.61.3\lib\net462\Microsoft.Identity.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Identity.Client.Extensions.Msal, Version=4.61.3.0, Culture=neutral, PublicKeyToken=0a613f4dd989e8ae, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Identity.Client.Extensions.Msal.4.61.3\lib\netstandard2.0\Microsoft.Identity.Client.Extensions.Msal.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Abstractions, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Abstractions.6.35.0\lib\net472\Microsoft.IdentityModel.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.JsonWebTokens, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.JsonWebTokens.6.35.0\lib\net472\Microsoft.IdentityModel.JsonWebTokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.6.35.0\lib\net472\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Protocols, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Protocols.6.35.0\lib\net472\Microsoft.IdentityModel.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Protocols.OpenIdConnect.6.35.0\lib\net472\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.6.35.0\lib\net472\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ClientModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=92742159e12e44c8, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ClientModel.1.0.0\lib\netstandard2.0\System.ClientModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.6.0.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.1\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.6.35.0\lib\net472\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.AccessControl, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.AccessControl.5.0.0\lib\net461\System.IO.FileSystem.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory.Data, Version=1.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.Data.1.0.2\lib\net461\System.Memory.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.6.0.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.ProtectedData, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.ProtectedData.4.7.0\lib\net461\System.Security.Cryptography.ProtectedData.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.6.0.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.4.7.2\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Credits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credits.Designer.cs">
+      <DependentUpon>Credits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crops.Designer.cs">
+      <DependentUpon>Crops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FarmerHelpline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarmerHelpline.Designer.cs">
+      <DependentUpon>FarmerHelpline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AboutCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutCompany.Designer.cs">
+      <DependentUpon>AboutCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemsList.Designer.cs">
+      <DependentUpon>ItemsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SavedPostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SavedPostForm.Designer.cs">
+      <DependentUpon>SavedPostForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePostForm.Designer.cs">
+      <DependentUpon>UpdatePostForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreatePostForm.Designer.cs">
+      <DependentUpon>CreatePostForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs" />
+    <Compile Include="Farmer.cs" />
+    <Compile Include="FarmerAddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarmerAddItem.Designer.cs">
+      <DependentUpon>FarmerAddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FarmerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarmerDashboard.Designer.cs">
+      <DependentUpon>FarmerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FarmerItemManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarmerItemManagement.Designer.cs">
+      <DependentUpon>FarmerItemManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditItems.Designer.cs">
+      <DependentUpon>EditItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewUser.Designer.cs">
+      <DependentUpon>AddNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FarmerSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarmerSales.Designer.cs">
+      <DependentUpon>FarmerSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostDetails.Designer.cs">
+      <DependentUpon>PostDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewOrderVGC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewOrderVGC.Designer.cs">
+      <DependentUpon>ViewOrderVGC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaFeedPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaFeedPage.Designer.cs">
+      <DependentUpon>MediaFeedPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewOrders.Designer.cs">
+      <DependentUpon>ViewOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlaceOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlaceOrder.Designer.cs">
+      <DependentUpon>PlaceOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewItem.Designer.cs">
+      <DependentUpon>ViewItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfirmNewPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfirmNewPass.Designer.cs">
+      <DependentUpon>FormConfirmNewPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForgetPassMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForgetPassMethod.Designer.cs">
+      <DependentUpon>FormForgetPassMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmForgetPassword.Designer.cs">
+      <DependentUpon>FrmForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ILogin.cs" />
+    <Compile Include="IRecover.cs" />
+    <Compile Include="ISignup.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Post.cs" />
+    <Compile Include="FarmerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarmerProfile.Designer.cs">
+      <DependentUpon>FarmerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marketplace1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marketplace1.Designer.cs">
+      <DependentUpon>Marketplace1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="Vendor.cs" />
+    <Compile Include="VendorProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorProfile.Designer.cs">
+      <DependentUpon>VendorProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomePage.Designer.cs">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorDashboard.Designer.cs">
+      <DependentUpon>VendorDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralCustomerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralCustomerProfile.Designer.cs">
+      <DependentUpon>GeneralCustomerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralCustomerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralCustomerDashboard.Designer.cs">
+      <DependentUpon>GeneralCustomerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutCompany.resx">
+      <DependentUpon>AboutCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewUser.resx">
+      <DependentUpon>AddNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credits.resx">
+      <DependentUpon>Credits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crops.resx">
+      <DependentUpon>Crops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarmerHelpline.resx">
+      <DependentUpon>FarmerHelpline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsList.resx">
+      <DependentUpon>ItemsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SavedPostForm.resx">
+      <DependentUpon>SavedPostForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePostForm.resx">
+      <DependentUpon>UpdatePostForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreatePostForm.resx">
+      <DependentUpon>CreatePostForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditItems.resx">
+      <DependentUpon>EditItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarmerAddItem.resx">
+      <DependentUpon>FarmerAddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarmerDashboard.resx">
+      <DependentUpon>FarmerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarmerItemManagement.resx">
+      <DependentUpon>FarmerItemManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarmerSales.resx">
+      <DependentUpon>FarmerSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfirmNewPass.resx">
+      <DependentUpon>FormConfirmNewPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForgetPassMethod.resx">
+      <DependentUpon>FormForgetPassMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmForgetPassword.resx">
+      <DependentUpon>FrmForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaFeedPage.resx">
+      <DependentUpon>MediaFeedPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlaceOrder.resx">
+      <DependentUpon>PlaceOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostDetails.resx">
+      <DependentUpon>PostDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarmerProfile.resx">
+      <DependentUpon>FarmerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marketplace1.resx">
+      <DependentUpon>Marketplace1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralCustomerDashboard.resx">
+      <DependentUpon>GeneralCustomerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralCustomerProfile.resx">
+      <DependentUpon>GeneralCustomerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorDashboard.resx">
+      <DependentUpon>VendorDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorProfile.resx">
+      <DependentUpon>VendorProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewItem.resx">
+      <DependentUpon>ViewItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewOrders.resx">
+      <DependentUpon>ViewOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewOrderVGC.resx">
+      <DependentUpon>ViewOrderVGC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.resx">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agrivision Solution logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agrivision Solution logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agrivision Solution logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MediaPlayer">
+      <Guid>{22D6F304-B0F6-11D0-94AB-0080C74C7E95}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMLSS">
+      <Guid>{C21E9CE5-B317-463B-A1B1-B5E36EED59D0}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPDXMLib">
+      <Guid>{73F0DD5C-D071-46B6-A8BF-897C84EAAC49}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLauncher">
+      <Guid>{5CB42160-CD7C-4806-9367-1C4A65153F4A}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44cb0809-f6c7-4d4b-bda5-97d2920a99ca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Angry.jpg" />
+    <Content Include="Resources\Haha.png" />
+    <None Include="Resources\Image1.bmp" />
+    <Content Include="Resources\Like.jpg" />
+    <Content Include="Resources\Love.jpg" />
+    <Content Include="Resources\Sad.jpg" />
+    <Content Include="Resources\wow.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Data.SqlClient.SNI.5.2.0\build\net462\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('..\packages\Microsoft.Data.SqlClient.SNI.5.2.0\build\net462\Microsoft.Data.SqlClient.SNI.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Data.SqlClient.SNI.5.2.0\build\net462\Microsoft.Data.SqlClient.SNI.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Data.SqlClient.SNI.5.2.0\build\net462\Microsoft.Data.SqlClient.SNI.targets'))" />
+  </Target>
+</Project>

@@ -1,0 +1,463 @@
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.AssemblyReference.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AdminDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Properties.Resources.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.GenerateResource.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.CoreCompileInputs.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe.config
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.pdb
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.exe
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.pdb
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivisi.A3579A92.Up2Date
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Registration.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorProfile.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.WelcomePage.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerAddItem.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Marketplace1.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerProfile.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.LoginPage.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerItemManagement.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Profile.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Dip\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.EditItems.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe.config
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.pdb
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.AssemblyReference.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AddNewUser.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AdminDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.EditItems.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerAddItem.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerItemManagement.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FormConfirmNewPass.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FormForgetPassMethod.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FrmForgetPassword.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.CancelledOrders.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.PlaceOrder.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Profile.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Marketplace1.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerProfile.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.LoginPage.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Properties.Resources.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Registration.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorProfile.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewItem.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewOrders.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.WelcomePage.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.GenerateResource.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.CoreCompileInputs.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivisi.A3579A92.Up2Date
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.exe
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.pdb
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.MediaFeedPage.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.MediaPlayer.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.ResolveComReference.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMLSS.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPDXMLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPLauncher.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\AxInterop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\AxInterop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Interop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.CreatePostForm.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerSales.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewOrderVGC.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.AssemblyReference.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMLSS.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPLib.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.ResolveComReference.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AddNewUser.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.SavedPostForm.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.UpdatePostForm.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.CreatePostForm.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AdminDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.EditItems.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerAddItem.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerItemManagement.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerSales.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FormConfirmNewPass.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FormForgetPassMethod.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FrmForgetPassword.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.MediaFeedPage.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.PlaceOrder.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.PostDetails.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Profile.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Marketplace1.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerProfile.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.LoginPage.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Properties.Resources.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Registration.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorDashboard.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorProfile.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewItem.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewOrders.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewOrderVGC.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.WelcomePage.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.GenerateResource.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.CoreCompileInputs.cache
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe.config
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.pdb
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.xml
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Interop.WMPLib.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivisi.A3579A92.Up2Date
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.exe
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.pdb
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ReportForm.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Credits.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Crops.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ItemsList.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerHelpline.resources
+C:\Users\dipkh\OneDrive\Pictures\Desktop\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AboutCompany.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe.config
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.exe
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Agrivision Solution.pdb
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Core.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Azure.Identity.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Buffers.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ClientModel.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Data.SqlClient.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Memory.Data.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Numerics.Vectors.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.AccessControl.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Permissions.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Security.Principal.Windows.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Encodings.Web.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Text.Json.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\System.ValueTuple.xml
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\Interop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\bin\Debug\AxInterop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.AssemblyReference.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.MediaPlayer.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMLSS.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPDXMLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPLauncher.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Interop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\AxInterop.WMPLib.dll
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.ResolveComReference.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AboutCompany.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AddNewUser.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Credits.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Crops.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerHelpline.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ItemsList.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ReportForm.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.SavedPostForm.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.UpdatePostForm.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.CreatePostForm.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.AdminDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.EditItems.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerAddItem.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerItemManagement.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FarmerSales.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FormConfirmNewPass.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FormForgetPassMethod.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.FrmForgetPassword.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.MediaFeedPage.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.PlaceOrder.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.PostDetails.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Profile.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Marketplace1.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.GeneralCustomerProfile.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.LoginPage.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Properties.Resources.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.Registration.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorDashboard.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.VendorProfile.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewItem.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewOrders.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.ViewOrderVGC.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision_Solution.WelcomePage.resources
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.GenerateResource.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.csproj.CoreCompileInputs.cache
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivisi.A3579A92.Up2Date
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.exe
+D:\AIUB Study Materials\6th Semester\Object Oriented Programming 2\Final Term Study Materials\Agrivision Solution\Agrivision Solution\Agrivision Solution\obj\Debug\Agrivision Solution.pdb

@@ -78,17 +78,6 @@ Start / Run
 
 from Visual Studio.
 
----
-
-## Screenshots
-
-Add screenshots in a folder named `screenshots/`:
-
-```md
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Management Page](screenshots/management.png)
-```
 
 ---
 
